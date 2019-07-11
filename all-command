@@ -7,5 +7,9 @@ kill session => tmux kill-session -t mysession
 Ctrl-b s          Choose a session from the sessions list
 
  ctrl+b t show the time
- 
+
  ctrl+b " to add awindow
+
+ctrl+b [  or ]
+
+ctrl+b z to zoom page 
