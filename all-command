@@ -12,4 +12,6 @@ Ctrl-b s          Choose a session from the sessions list
 
 ctrl+b [  or ]
 
-ctrl+b z to zoom page 
+ctrl+b z to zoom page
+
+ctrl+b , to rename session 
