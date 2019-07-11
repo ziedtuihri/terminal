@@ -1,0 +1,5 @@
+ sudo apt install tmux
+creat session => tmux new -s mysession
+kill session => tmux kill-session -t mysession
+ ctrl+b t show the time
+ ctrl+b " to add awindow
