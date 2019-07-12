@@ -14,4 +14,6 @@ ctrl+b [  or ]
 
 ctrl+b z to zoom page
 
-ctrl+b , to rename session 
+ctrl+b , to rename session
+
+tmux a -t mysession  to open a session
