@@ -1,8 +1,8 @@
- sudo apt install tmux
+ sudo apt install **ttttmmmmm***
 
-creat session => tmux new -s mysession
+creat session => **ttttmmmmm*** new -s mysession
 
-kill session => tmux kill-session -t mysession
+kill session => **ttttmmmmm*** kill-session -t mysession
 
 Ctrl-b s          Choose a session from the sessions list
 
@@ -16,4 +16,4 @@ ctrl+b z to zoom page
 
 ctrl+b , to rename session
 
-tmux a -t mysession  to open a session
+**ttttmmmmm*** a -t mysession  to open a session
