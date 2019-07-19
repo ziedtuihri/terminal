@@ -17,3 +17,28 @@ ctrl+b z to zoom page
 ctrl+b , to rename session
 
 **ttttmmmmm*** a -t mysession  to open a session
+
+############ Step 1 – Install Node.js
+
+First of all, you need to install node.js on your system. Use the following set of commands to add node.js PPA in your Ubuntu system and install it.
+
+sudo apt-get install python-software-properties
+
+curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+
+sudo apt-get install nodejs
+
+node --version
+npm --version
+
+Step 2 – Install Angular/CLI
+
+npm install -g @angular/cli
+ng --version
+
+ng new hello-angular4
+
+cd hello-angular4
+ng serve
+
+ng serve --host 0.0.0.0 --port 8080
