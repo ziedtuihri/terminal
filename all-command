@@ -1,8 +1,8 @@
- sudo apt install **ttttmmmmm***
+ sudo apt install tmux
 
-creat session => **ttttmmmmm*** new -s mysession
+creat session => tmux new -s mysession
 
-kill session => **ttttmmmmm*** kill-session -t mysession
+kill session => tmux kill-session -t mysession
 
 Ctrl-b s          Choose a session from the sessions list
 
@@ -16,7 +16,7 @@ ctrl+b z to zoom page
 
 ctrl+b , to rename session
 
-**ttttmmmmm*** a -t mysession  to open a session
+tmux a -t mysession  to open a session
 
 ############ Step 1 – Install Node.js
 
@@ -42,3 +42,7 @@ cd hello-angular4
 ng serve
 
 ng serve --host 0.0.0.0 --port 8080
+
+$ git config --global user.name "FirstName LastName"
+
+$ git config --global user.email "email@example.com"
